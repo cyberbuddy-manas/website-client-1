@@ -1,3 +1,9 @@
+@media screen and (max-width: 1400px) {
+	html {
+		zoom: 0.8;
+	}
+}
+
 body {
 	background-color: #f5f5f5;
 	margin: 0px;
@@ -22,7 +28,7 @@ a {
 
 /*Navigation Bar*/
 header {
-	background: rgb(0,0,0, 0.9);
+	background: rgb(0,0,0, 1);
 }
 
 nav {
@@ -301,7 +307,6 @@ nav li {
 
 /*Education Page CSS*/
 .edu-box-background {
-	background-image: url('https://fakeimg.pl/1920x1080');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
