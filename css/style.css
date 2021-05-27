@@ -324,11 +324,15 @@ nav li {
 	margin-right: 50px;
 	margin-left: 50px;
 	border: 2px;
-	width: 80%;
+	width: 90%;
 	background-color: white;
 	box-shadow: 0 5px 10px 0 rgb(0 0 0 / 20%), 
 	-10px 10px 20px 0 rgb(0 0 0 / 20%),
 	10px 10px 20px 0 rgb(0 0 0 / 10%);
+}
+
+.edu-box-container a {
+	color: rgb(0, 0, 0, 0.9);
 }
 
 .edu-box-left {
@@ -354,7 +358,7 @@ nav li {
 }
 
 .edu-box h3 {
-	font-size: 20px;
+	font-size: 18px;
 	font-family: 'Libre Franklin',sans-serif;
 	margin: 5px 0 0 0;
 }
